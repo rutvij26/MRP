@@ -1,3 +1,5 @@
 *.csv
 .DS_Store
 VOC_Dye_Schedule_Tool_For_Georgian.xlsm
+*.xls
+*.xlsm
